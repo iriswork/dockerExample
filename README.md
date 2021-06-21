@@ -8,3 +8,5 @@ Install dash application with docker.
 * install [docker](https://docs.docker.com/docker-for-windows/install/) 
 * open command prompt
 * `docker-compose up`
+* in browser navigate to localhost:5000
+
